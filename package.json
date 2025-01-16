@@ -2,5 +2,23 @@
   "dependencies": {
     "express": "^4.21.2",
     "yahoo-finance2": "^2.13.3"
-  }
+  },
+  "name": "api_mercado_financeiro",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shufito/apiMercadoFinanceiro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shufito/apiMercadoFinanceiro/issues"
+  },
+  "homepage": "https://github.com/shufito/apiMercadoFinanceiro#readme",
+  "description": ""
 }
